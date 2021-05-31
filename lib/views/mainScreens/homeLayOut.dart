@@ -7,7 +7,7 @@ import 'package:shoppingapp/views/widgetsHepler/CardItem.dart';
 import 'package:shoppingapp/views/widgetsHepler/bannerBuilder.dart';
 import 'package:shoppingapp/views/widgetsHepler/categoryItem.dart';
 
-import '../searchScreen.dart';
+import 'searchScreen.dart';
 
 class HomeLayOut extends StatelessWidget {
   @override
